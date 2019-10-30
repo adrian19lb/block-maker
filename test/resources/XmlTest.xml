@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testParent>
+	<testChildOne>
+		<testVectorOne>
+			<x>1.25</x>
+			<y>1.50</y>
+		</testVector>
+        <testVectorTwo>
+            <x>2.25</x>
+            <y>2.50</y>
+        </testVectorTwo>
+	</testChildOne>
+	<testChildTwo>
+		<testVectorOne>
+			<x>1.30</x>
+			<y>1.40</y>
+		</testVectorOne>
+		<testVectorTwo>
+			<x>2.30</x>
+			<y>2.40</y>
+		</testVectorTwo>
+		<testVectorThree>
+			<x>3.50</x>
+			<y>3.25</y>
+		</testVectorThree>
+	</testChildTwo>
+</testParent>

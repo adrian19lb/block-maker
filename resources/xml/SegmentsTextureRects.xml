@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<square>
+	<red id="0">
+        <size>
+            <width>30.00</width>
+            <height>30.00</height>
+        </size>
+        <leftTop coordinateSystem="orthogonal">
+			<x>0.00</x>
+			<y>0.00</y>
+		</leftTop>
+	</red>
+	<yellow id="1">
+        <size>
+            <width>30.00</width>
+            <height>30.00</height>
+        </size>
+		<leftTop coordinateSystem="orthogonal">
+			<x>30.00</x>
+			<y>0.00</y>
+		</leftTop>
+	</yellow>
+	<green id="2">
+        <size>
+            <width>30.00</width>
+            <height>30.00</height>
+        </size>
+        <leftTop coordinateSystem="orthogonal">
+			<x>60.00</x>
+			<y>0.00</y>
+		</leftTop>
+	</green>
+	<blue id="3">
+        <size>
+            <width>30.00</width>
+            <height>30.00</height>
+        </size>
+        <leftTop coordinateSystem="orthogonal">
+			<x>0.00</x>
+			<y>30.00</y>
+		</leftTop>
+	</blue>
+	<purple id="4">
+        <size>
+            <width>30.00</width>
+            <height>30.00</height>
+        </size>
+        <leftTop coordinateSystem="orthogonal">
+			<x>30.00</x>
+			<y>30.00</y>
+		</leftTop>
+	</purple>
+</square>
